@@ -1,3 +1,5 @@
 hello!
 hello
+Added a change
+added a cool feature
 hey bug fixed
